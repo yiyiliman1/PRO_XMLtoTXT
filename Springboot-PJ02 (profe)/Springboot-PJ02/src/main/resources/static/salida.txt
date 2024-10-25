@@ -1,0 +1,13 @@
+Root Element :company
+id= 1001
+firstname= yong
+lastname= mook kim
+nickname= mkyong
+salary= 100000
+currency=USD
+id= 2001
+firstname= low
+lastname= yin fong
+nickname= fong fong
+salary= 200000
+currency=INR
